@@ -1,2 +1,3 @@
-# ChromeAutomation
+# Automation
 Automation using Selenium
+
